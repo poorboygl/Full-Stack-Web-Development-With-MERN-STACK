@@ -9,3 +9,15 @@ https://pixabay.com/vi/
 https://flexbox.tech/
 
 https://caniuse.com/
+
+ch11
+https://vite.dev/guide/
+npm create vite@latest
+
+npm i
+
+ npm run dev
+
+ npm install bootstrap@5.3.3
+
+ npm install react-bootstrap bootstrap
